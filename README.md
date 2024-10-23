@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Amisha Lamichhane.
 
 ### About Me
-I am an enthusiastic beginner full-stack developer with a keen interest in data analysis. I specialize in front-end technologies such as HTML, CSS, JavaScript, and Laravel. Currently, I'm enhancing my skills in database design and implementation, focusing on SQL.
+I am an enthusiastic beginner full-stack developer with a keen interest in data analysis. I specialize in front-end technologies such as HTML, CSS, and JavaScript, while also utilizing Laravel for backend development. Currently, I'm enhancing my skills in database design and implementation, focusing on SQL.
 
 With a strong problem-solving mindset and a collaborative approach, I thrive in team environments. I am committed to continuous learning and stay updated on the latest technologies and industry trends. I’m excited to apply my developing skills to innovative projects, especially in data analysis.
 
